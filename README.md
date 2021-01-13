@@ -1,7 +1,5 @@
 ### Welcome to my GitHub!
 
-<!--
-**FPDPanda/FPDPanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 💻 Technologies i have learned (and i'm confident in!):
   - HTML
