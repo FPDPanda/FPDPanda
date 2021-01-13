@@ -1,5 +1,5 @@
-### Welcome to my GitHub!
-
+![](https://visitor-badge.laobi.icu/badge?page_id=FPDPanda)
+[![Github](https://img.shields.io/github/followers/FPDPanda?label=Follow&style=social)](https://github.com/FPDPanda)
 
 💻 Technologies i have learned (and i'm confident in!):
   - HTML
@@ -23,5 +23,8 @@
 📫 My e-mail:
   - jeanjacques7.jj@gmail.com
 
-⚡ Fun fact:
-  - Not actually a panda!
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=dark)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FPDPanda&show_icons=true&theme=dark)
