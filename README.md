@@ -1,21 +1,29 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=FPDPanda)
 [![Github](https://img.shields.io/github/followers/FPDPanda?label=Follow&style=social)](https://github.com/FPDPanda)
 
-💻 Technologies i have learned (and i'm confident in!):
+💻 Technologies i use in my current position:
+  - AWS (SNS, SQS, Lambda, RDS, CloudWatch, CloudFormation, API Gateway, Secrets Manager, S3 ...)
+  - C# Net core
+  - Typescript / JavaScript
+  - Angular 2+
   - HTML
   - CSS
-  - JavaScript
+  - DocumentDB (using Robo3T)
+  - PostgreSQL (using DBeaver)
+  - Azure DevOps
   - Git
   
-🌱 I’m currently learning:
-  - JavaScript Libraries
+🌱 Technologies i have used before and i am familiar with:
   - NodeJs
   - React
+  - Python
+  - Java
   
 🔍  I’m interested in:
-  - GraphQL
-  - Gatsby.js
-  - Next.js
+  - Cache databases
+  - Frontend performance
+  - Python
+  - AI
   
 💬 Ask me about:
   - Collab!
